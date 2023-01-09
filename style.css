@@ -29,13 +29,15 @@
 .number {
   background-color: #444444;
   font-family: "Inter", sans-serif;
+
   font-size: 50px;
   border-radius: 50%;
   overflow: hidden;
-  padding: 25px 38px;
+  padding: 20px 0px;
   text-align: center;
   margin: auto;
   color: #ffffff;
+  width: 28%;
 }
 .btn {
   background-color: #2b2b2b;
